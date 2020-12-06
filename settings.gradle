@@ -1,0 +1,2 @@
+rootProject.name='Popular Bonk'
+include ':app'

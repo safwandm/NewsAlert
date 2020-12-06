@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simple News</string>
+    <string name="hello_blank_fragment">halo</string>
+    <string name="ja">YA</string>
+    <string name="top_nows">Berita Baru</string>
+    <string name="author">penulis</string>
+    <string name="title_of_news">Nama Berita</string>
+    <string name="a_time_ago">beberapa waktu lalu</string>
+    <string name="change_language_setting">setting ubah bahasa</string>
+    <string name="about">Tentang</string>
+    <string name="news">Berita</string>
+    <string name="welcome">Selamat Datang</string>
+    <string name="a_little_project_i_made_for_an_assignment">project kecil yang kubuat untuk tugas</string>
+</resources>
